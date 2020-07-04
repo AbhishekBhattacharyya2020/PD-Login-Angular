@@ -1,14 +1,14 @@
 # PD-Login-Angular
 
-Install node in computer
-Open Terminal or cmd prompt
-cd my-app
-npm i
-ng serve --open
+1. Install node in computer
+2. Open Terminal or cmd prompt
+3. cd product-app
+4. npm i
+5. ng serve --open
 
 
 It opens in default browser @ http://localhost:4200/
 
 Credentials for portal 
-id : Abhishek 
-password: 123456789
+ id : Abhishek 
+ password: 123456789
